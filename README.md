@@ -20,6 +20,7 @@
       <img src="assets/icons/javascript.png" width="72" height="72" alt="JavaScript" />
       <img src="assets/icons/react.png" width="72" height="72" alt="React" />
       <img src="assets/icons/vite.png" width="72" height="72" alt="Vite" />
+      <img src="assets/icons/swift.png" width="72" height="72" alt="Swift" />
     </td>
     <td valign="top" width="50%">
       <h3>Backend</h3>
