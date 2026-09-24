@@ -3,6 +3,13 @@
 <!-- Snake -->
 
 
+<!-- 3D contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg" />
+  <img alt="3D contributions" src="profile-3d-contrib/profile-night-view.svg" />
+</picture>
+
 <table>
   <tr>
     <td valign="top" width="50%">
