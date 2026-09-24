@@ -26,8 +26,7 @@
       <img src="assets/icons/python.png" width="72" height="72" alt="Python" />
       <img src="assets/icons/django.png" width="72" height="72" alt="Django" />
       <img src="assets/icons/djangorest.png" width="72" height="72" alt="Django REST Framework" />
-      <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="72" height="72" alt="Flask" />
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="72" height="72" alt="MySQL" />
+      <img src="assets/icons/mysql.png" width="72" height="72" alt="MySQL" />
       <img src="assets/icons/bash.png" width="72" height="72" alt="Bash" />
       <img src="assets/icons/typescript.png" width="72" height="72" alt="TypeScript" />
     </td>
