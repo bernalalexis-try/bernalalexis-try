@@ -16,7 +16,10 @@
     </td>
     <td valign="top" width="33%">
       <h3>Backend</h3>
-      <br/><br/><br/>
+      <img src="assets/icons/python.png" width="48" height="48" alt="Python" />
+      <img src="assets/icons/django.png" width="48" height="48" alt="Django" />
+      <img src="assets/icons/djangorest.png" width="48" height="48" alt="Django REST Framework" />
+      <img src="assets/icons/typescript.png" width="48" height="48" alt="TypeScript" />
     </td>
     <td valign="top" width="33%">
       <h3>DevOps</h3>
