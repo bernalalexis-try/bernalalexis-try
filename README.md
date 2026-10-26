@@ -30,6 +30,7 @@
       <a href="https://www.mysql.com"><img src="assets/icons/mysql.png" width="72" height="72" alt="MySQL" /></a>
       <a href="https://www.gnu.org/software/bash/"><img src="assets/icons/bash.png" width="72" height="72" alt="Bash" /></a>
       <a href="https://www.typescriptlang.org"><img src="assets/icons/typescript.png" width="72" height="72" alt="TypeScript" /></a>
+      <a href="https://go.dev"><img src="assets/icons/go.png" width="72" height="72" alt="Go" /></a>
     </td>
   </tr>
 </table>
